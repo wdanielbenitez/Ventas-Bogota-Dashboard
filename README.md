@@ -42,4 +42,4 @@ Esto basado en información de los años 2023-2025.
 3. Los gráficos se actualizan automáticamente
 
 ## Vista Previa
-![Dashboard](https://github.com/wdanielbenitez/Ventas-Bogota-Dashboard/blob/master/Dashboard_Image.png)
+![Dashboard](https://github.com/wdanielbenitez/Ventas-Bogota-Dashboard/blob/main/Dashboard_Image.png)
